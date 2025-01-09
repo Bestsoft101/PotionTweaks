@@ -1,0 +1,15 @@
+item.minecraft.potion.effect.haste=Trank der Eile
+item.minecraft.potion.effect.long_haste=Trank der Eile
+item.minecraft.potion.effect.strong_haste=Trank der Eile
+
+item.minecraft.splash_potion.effect.haste=Wurftrank der Eile
+item.minecraft.splash_potion.effect.long_haste=Wurftrank der Eile
+item.minecraft.splash_potion.effect.strong_haste=Wurftrank der Eile
+
+item.minecraft.lingering_potion.effect.haste=Verweiltrank der Eile
+item.minecraft.lingering_potion.effect.long_haste=Verweiltrank der Eile
+item.minecraft.lingering_potion.effect.strong_haste=Verweiltrank der Eile
+
+item.minecraft.tipped_arrow.effect.haste=Pfeil der Eile
+item.minecraft.tipped_arrow.effect.long_haste=Pfeil der Eile
+item.minecraft.tipped_arrow.effect.strong_haste=Pfeil der Eile

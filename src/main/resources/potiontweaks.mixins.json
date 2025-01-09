@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "b100.potiontweaks.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ItemsMixin",
+		"BrewingRecipeRegistryMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

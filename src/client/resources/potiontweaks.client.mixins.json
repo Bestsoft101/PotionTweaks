@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "b100.potiontweaks.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"TranslationStorageMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
